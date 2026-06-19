@@ -27,4 +27,4 @@ Located at: .github/workflows/ci.yml
 Build the robot. Protect the secrets. Ship flawlessly.
 
 ## Author
-Aathif TR | Mohamed Sathak Engineering College | DecodeLabs Batch 2026
+Aathif TR | Mohamed Sathak Engineering College | DecodeLabs Batch 2026.
